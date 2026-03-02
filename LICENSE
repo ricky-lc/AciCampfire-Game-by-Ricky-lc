@@ -1,0 +1,83 @@
+ACICAMPFIRE GAME SOURCE LICENSE
+Version 1.0
+
+Copyright (c) 2024 Ricky-lc. All rights reserved.
+
+PREAMBLE
+This license governs the use of the AciCampfire game source code, assets, and
+documentation (collectively, the "Software"). The Software is made available
+in source-readable form for transparency and community study, but strict
+restrictions apply to ensure the author retains exclusive control over all
+uses of the work.
+
+TERMS AND CONDITIONS
+
+1. DEFINITIONS
+   "Software" means all files in this repository, including source code, game
+   assets (sprites, sounds, rooms), configuration files, and documentation.
+   "Author" means Ricky-lc, the original creator.
+   "You" means any individual or legal entity accessing the Software.
+   "Derivative Work" means any work based on or derived from the Software,
+   including translations, adaptations, modifications, or combined works.
+
+2. PERMITTED USES
+   Subject to the restrictions below, You may:
+   (a) View, read, and study the source code for personal, educational, or
+       research purposes only.
+   (b) Fork the repository on GitHub exclusively to submit pull requests to
+       the original repository at https://github.com/ricky-lc/AciCampfire-Game-by-Ricky-lc.
+   (c) Run local, private builds of the Software solely for personal,
+       non-commercial testing and study.
+
+3. RESTRICTIONS
+   You may NOT, without prior written permission from the Author:
+   (a) Distribute, publish, sell, sublicense, or otherwise make the Software
+       or any Derivative Work available to any third party.
+   (b) Use the Software or any Derivative Work in any commercial product,
+       service, or revenue-generating activity.
+   (c) Host, deploy, or operate the Software or any Derivative Work as a
+       public or private service accessible by others.
+   (d) Create or distribute a competing game, application, or service that
+       uses, incorporates, or is substantially derived from the Software.
+   (e) Remove, alter, or obscure any copyright, trademark, or license notice
+       contained in the Software.
+   (f) Use the name "AciCampfire", "Ricky-lc", or any associated branding to
+       endorse or promote products or services without the Author's express
+       written consent.
+   (g) Grant sublicenses or transfer any rights under this license to others.
+   (h) Use the Software or any Derivative Work in training machine learning or
+       AI models.
+
+4. CONTRIBUTIONS
+   By submitting a pull request or other contribution to the original
+   repository, You grant the Author a perpetual, irrevocable, worldwide,
+   royalty-free license to use, reproduce, modify, and distribute Your
+   contribution as part of the Software under any terms the Author chooses.
+   You affirm that You have the right to grant this license.
+
+5. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL
+   THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING
+   FROM THE USE OF OR INABILITY TO USE THE SOFTWARE.
+
+6. TERMINATION
+   This license terminates automatically and without notice if You violate any
+   of its terms. Upon termination, You must immediately cease all use of the
+   Software and destroy all copies in Your possession. Sections 3, 4, 5, and
+   7 survive termination.
+
+7. GOVERNING LAW AND DISPUTE RESOLUTION
+   This license shall be governed by and construed in accordance with the laws
+   of the Author's jurisdiction, without regard to conflict-of-law principles.
+   Any disputes arising from this license shall be resolved exclusively in the
+   courts of that jurisdiction.
+
+8. ENTIRE AGREEMENT
+   This license constitutes the entire agreement between You and the Author
+   regarding the Software and supersedes all prior agreements. Any amendment
+   must be in writing and signed by the Author.
+
+For permissions beyond the scope of this license, contact the Author via the
+GitHub repository: https://github.com/ricky-lc/AciCampfire-Game-by-Ricky-lc
