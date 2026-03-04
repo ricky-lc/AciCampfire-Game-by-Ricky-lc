@@ -1,5 +1,8 @@
 /// STEP EVENT PLAYER
 
+// ── Pseudo-3D depth sort: higher y = drawn on top (closer to camera) ──────────
+depth = -y;
+
 // -------------------------
 // FUNZIONE DI RESET
 // -------------------------
@@ -98,3 +101,7 @@ if (x < -32 || x > room_width + 32 || y < -32 || y > room_height + 32)
 {
     reset_player_state();
 }
+
+
+// ── LAN multiplayer: send position to host every frame (client role) ──────────
+// Note: hosting logic is handled inside O_NetworkManager.Step_0
